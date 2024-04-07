@@ -1,4 +1,6 @@
 HOST-SUFFIX,nas.awry.eu.org,Direct
+HOST-SUFFIX,url.awry.eu.org,Direct
+HOST-SUFFIX,apiurl.v1.mk,Direct
 HOST-SUFFIX,plusai.io,Direct
 HOST-SUFFIX,plusaigpt.com,Direct
 HOST-SUFFIX,plusai.me,Direct
